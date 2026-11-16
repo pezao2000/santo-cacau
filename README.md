@@ -1,6 +1,6 @@
 # Santo Cacau — Site e App
 
-**Veja o site funcionando:** https://jwlmedia12-hub.github.io/santo-cacau/
+**Veja o site funcionando:** https://pezao2000.github.io/santo-cacau/
 
 > **Sobre o projeto:** a Santo Cacau nasceu como um trabalho acadêmico do curso
 > de **Análise e Desenvolvimento de Sistemas (ADS)**. O professor pediu o
